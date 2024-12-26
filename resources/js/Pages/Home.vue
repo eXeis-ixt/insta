@@ -30,7 +30,7 @@ onMounted(() => {
 </script>
 
 <template>
-    <Head title="Instagram" />
+    <Head title="Insta Gram clone" />
 
     <MainLayout>
 
